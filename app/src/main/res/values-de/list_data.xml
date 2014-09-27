@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vzorce">
+        <item>Mathematische</item>
+        <item>Physic</item>
+        <item>Chemische</item>
+    </string-array>
+</resources>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fyz">
+        <!--0--><item>﻿Hustota</item>
+        <!--1--><item>Rovnoměrný pohyb</item>
+        <!--2--><item>Nerovnoměrný pohyb</item>
+        <!--3--><item>Rychlost</item>
+        <!--4--><item>Dráha</item>
+        <!--5--><item>Perioda</item>
+        <!--6--><item>Frekvence</item>
+        <!--7--><item>Úhlová rychlost</item>
+        <!--8--><item>Dráhová rychlost</item>
+        <!--9--><item>Dostředivé zrychlení</item>
+        <!--10--><item>Hybnost</item>
+        <!--11--><item>Druhý pohybový zákon</item>
+        <!--12--><item>Moment síly</item>
+        <!--13--><item>Mechanická práce</item>
+        <!--14--><item>Kinetická energie</item>
+        <!--15--><item>Potenciální energie</item>
+        <!--16--><item>Výkon</item>
+        <!--17--><item>Účinnost</item>
+        <!--18--><item>Kinetická energie rotujícího tělesa</item>
+        <!--19--><item>Gravitační síla</item>
+        <!--20--><item>Intenzita gravitačního pole</item>
+        <!--21--><item>Gravitační potenciál</item>
+        <!--22--><item>Tlak</item>
+        <!--23--><item>Hydrostatický tlak</item>
+        <!--24--><item>Vztlaková síla</item>
+        <!--25--><item>Rovnice spojitosti</item>
+        <!--26--><item>Bernoulliho rovnice</item>
+        <!--27--><item>Newtonův vzorec pro velikost odporové síly</item>
+        <!--28--><item>Tepelná kapacita</item>
+        <!--29--><item>Měrná tepelná kapacita</item>
+        <!--30--><item>První termodynamický zákon</item>
+        <!--31--><item>Stř. kvadratická rychlost</item>
+        <!--32--><item>Stř. kinetická energie molekuly</item>
+        <!--33--><item>Tlak ideálního plynu</item>
+        <!--34--><item>Stavová rovnice ideálního plynu</item>
+        <!--35--><item>Teplotní délková roztažnost</item>
+        <!--36--><item>Teplotní objemová roztažnost</item>
+        <!--37--><item>Povrchové napětí</item>
+        <!--38--><item>Měrné skupenské teplo</item>
+        <!--39--><item>Absolutní vlhkost vzduchu</item>
+        <!--40--><item>Relativní vlhkost vzduchu</item>
+        <!--41--><item>Okamžitá výchylka</item>
+        <!--42--><item>Rychlost</item>
+        <!--43--><item>Zrychlení</item>
+        <!--44--><item>Úhlová frekvence</item>
+        <!--45--><item>Síla vyvolávající kmit. pohyb</item>
+        <!--46--><item>Úhlová frekvence</item>
+        <!--47--><item>Rovnice postupné vlny</item>
+        <!--48--><item>Coulombův zákon</item>
+        <!--49--><item>Intenzita el. pole</item>
+        <!--50--><item>Plošná hustota náboje</item>
+        <!--51--><item>Elektrický potenciál</item>
+        <!--52--><item>Elektrické napětí</item>
+        <!--53--><item>Práce v homogenním elektrickém poli</item>
+        <!--54--><item>Kapacita vodiče</item>
+        <!--55--><item>Kapacita deskového kondenzátoru</item>
+        <!--56--><item>Energie nabitého kondenzátoru</item>
+        <!--57--><item>Elektrický proud</item>
+        <!--58--><item>Elektrická vodivost</item>
+        <!--59--><item>Měrný elektrický odpor</item>
+        <!--60--><item>Závislost měr. el. odporu na teplotě</item>
+        <!--61--><item>Výkon konst. proudu</item>
+        <!--62--><item>Faradayův zákon elektrolýzy</item>
+        <!--63--><item>Magn. Síla</item>
+        <!--64--><item>Síla mezi 2 rovnoběž. vodiči s proudem</item>
+        <!--65--><item>Magnetický indukční tok</item>
+        <!--66--><item>Faradayův zákon elektromagnetické indukce</item>
+        <!--67--><item>Indukčnost</item>
+        <!--68--><item>Energie magn. pole cívky</item>
+        <!--69--><item>Střídavý proud</item>
+        <!--70--><item>Napětí</item>
+        <!--71--><item>Thomsonův vztah</item>
+        <!--72--><item>Transformační poměr</item>
+        <!--73--><item>Absolutní index lomu</item>
+        <!--74--><item>Zákon lomu</item>
+        <!--75--><item>Zobrazovací rovnice</item>
+        <!--76--><item>Ohnisková vzdálenost čočky</item>
+        <!--77--><item>Optická mohutnost</item>
+        <!--78--><item>Zvětšení</item>
+        <!--79--><item>Svítivost</item>
+        <!--80--><item>Osvětlení</item>
+        <!--81--><item>Wienův posunovací zákon</item>
+        <!--82--><item>Stefanův-boltzmanův zákon</item>
+        <!--83--><item>Energie fotonu</item>
+        <!--84--><item>Hybnost fotonu</item>
+        <!--85--><item>Vlnová délka pohybující se částice</item>
+        <!--86--><item>Kinetická energie elektronu</item>
+        <!--87--><item>Zákon radioaktivní přeměny</item>
+    </string-array>
+    <string-array name="fyzv">
+        <!--0--><item>﻿ρ=m/V</item>
+        <!--1--><item>v=s/t</item>
+        <!--2--><item>vp=Δs/Δt</item>
+        <!--3--><item>v=at</item>
+        <!--4--><item>s=½at\u00B2</item>
+        <!--5--><item>T=2πr/v=2π/ω</item>
+        <!--6--><item>f=1/T</item>
+        <!--7--><item>ω=Δφ/Δt=2π/T=2πf</item>
+        <!--8--><item>v=rω</item>
+        <!--9--><item>a=vω</item>
+        <!--10--><item>p=mv (platí i vektorově)</item>
+        <!--11--><item>F=Δp/Δt=ma (platí i vektorově)</item>
+        <!--12--><item>M=Fr</item>
+        <!--13--><item>W=Fscosα=Pt</item>
+        <!--14--><item>Ek=½mv\u00B2</item>
+        <!--15--><item>Ep=mgh</item>
+        <!--16--><item>P=W/t</item>
+        <!--17--><item>η=P/P0</item>
+        <!--18--><item>Ek=½Jω\u00B2</item>
+        <!--19--><item>Fg=κm1m\u00B2/r\u00B2 (κ - kappa - gravitační konstanta)</item>
+        <!--20--><item>K=Fg/m=κM/r\u00B2</item>
+        <!--21--><item>φg=Ep/m</item>
+        <!--22--><item>p=F/S</item>
+        <!--23--><item>p=hρg</item>
+        <!--24--><item>Fvz=Vρg</item>
+        <!--25--><item>SVρ=konst.</item>
+        <!--26--><item>p+½ρv\u00B2</item>
+        <!--27--><item>F=½CSρv\u00B2</item>
+        <!--28--><item>C=Q/ΔT</item>
+        <!--29--><item>c=Q/(mΔT)</item>
+        <!--30--><item>ΔU=W+Q</item>
+        <!--31--><item>vk\u00B2=3kT/m</item>
+        <!--32--><item>E=½mvk\u00B2=(3/2)kT</item>
+        <!--33--><item>p=(&#8531;)Nm0vk\u00B2/V</item>
+        <!--34--><item>pV=Nkt=nRmT</item>
+        <!--35--><item>l=l0(1+αΔt)</item>
+        <!--36--><item>V=V0(1+βΔt)</item>
+        <!--37--><item>σ=F/l</item>
+        <!--38--><item>l=L/m</item>
+        <!--39--><item>Φ=m/V</item>
+        <!--40--><item>φ=Φ/Φm</item>
+        <!--41--><item>y=ymsinωt</item>
+        <!--42--><item>v=ωymcosωt</item>
+        <!--43--><item>a=-ω2ymsinωt=-ω2y</item>
+        <!--44--><item>ω=2π/T=2πf</item>
+        <!--45--><item>F=-ky</item>
+        <!--46--><item>ω2=k/m</item>
+        <!--47--><item>y=ymsin2π(t/T-x/λ)</item>
+        <!--48--><item>Fe=|Q1Q2|/(4πεr\u00B2)</item>
+        <!--49--><item>E=Fe/q=Q/(4πεr\u00B2)</item>
+        <!--50--><item>σ=Q/S</item>
+        <!--51--><item>φe=Ep/Q=W/Q</item>
+        <!--52--><item>φe\u00B2|=Ed</item>
+        <!--53--><item>W=QU</item>
+        <!--54--><item>C=Q/U</item>
+        <!--55--><item>C=Sε0εr/d</item>
+        <!--56--><item>W=½CU</item>
+        <!--57--><item>I=ΔQ/Δt; I=U/R (pro část el. obvodu);I=Ue/(Ri+R) (pro uzavřený el. obvod)</item>
+        <!--58--><item>G=1/R</item>
+        <!--59--><item>ρ=RS/l</item>
+        <!--60--><item>ρ=ρ0(1+αΔt)</item>
+        <!--61--><item>m=AQ=MQ/(Fν)</item>
+        <!--62--><item>P=UI</item>
+        <!--63--><item>Fm=BIlsinα=QvBsinα</item>
+        <!--64--><item>F=μI1I2l/(2πd)</item>
+        <!--65--><item>Φ=BScosα</item>
+        <!--66--><item>Ui=-ΔΦ/Δt</item>
+        <!--67--><item>L=Φ/I</item>
+        <!--68--><item>E=½LI\u00B2</item>
+        <!--69--><item>u=Umsinωt</item>
+        <!--70--><item>i=Imsin(ωt-φ)</item>
+        <!--71--><item>ω02=1/(LC)</item>
+        <!--72--><item>k=N\u00B2/N\u00B1=U\u00B2/U\u00B1=I\u00B1/I\u00B2 (P=konst.)</item>
+        <!--73--><item>n0=c/v</item>
+        <!--74--><item>sinα/sinβ=v\u00B1/v\u00B2=n\u00B2/n\u00B1</item>
+        <!--75--><item>1/a+1/a´=1/f</item>
+        <!--76--><item>1/f=(n\u00B2/n\u00B1&#8211;1)(1/r\u00B1+1/r\u00B2)</item>
+        <!--77--><item>Φ=1/f</item>
+        <!--78--><item>Z=y´/y=-a´/a=-(a´-f)/f=-f/(a-f)</item>
+        <!--79--><item>I=ΔΦ/ΔΩ</item>
+        <!--80--><item>E=ΔΦ/ΔS</item>
+        <!--81--><item>λmT=b</item>
+        <!--82--><item>Me=σT\u00B4</item>
+        <!--83--><item>E=hf</item>
+        <!--84--><item>p=hf/c</item>
+        <!--85--><item>λ=h/(mv)</item>
+        <!--86--><item>En=n\u00B2h\u00B2/(8mL\u00B2)</item>
+        <!--87--><item>N(t)=N0e-λt; λ=ln\u00B2/T</item>
+    </string-array>
+</resources>

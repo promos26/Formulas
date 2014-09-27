@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="action_settings">Nastavení</string>
+    <string name="app_name">Vzorečky</string>
+    <string name="category">Vzorečky</string>
+    <string name="exit">Ukončit</string>
+    <string name="about">O aplikaci</string>
+    <string name="math">Matematické</string>
+    <string name="chem">Chemické</string>
+    <string name="fyz">Fyzikální</string>
+
+</resources>

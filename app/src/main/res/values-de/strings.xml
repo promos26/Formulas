@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="action_settings">Einstellen</string>
+    <string name="app_name">Formeln</string>
+    <string name="category">Formeln</string>
+    <string name="exit">Exit</string>
+    <string name="about">Über</string>
+    <string name="math">Mathematische</string>
+    <string name="chem">Chemische</string>
+    <string name="fyz">Physik</string>
+
+</resources>

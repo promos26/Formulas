@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Formulas</string>
+    <string name="action_settings">Settings</string>
+    <string name="category">Formulas</string>
+    <string name="exit">Exit</string>
+    <string name="about">About</string>
+    <string name="math">Mathematical</string>
+    <string name="chem">Chemical</string>
+    <string name="fyz">Physically</string>
+
+
+</resources>

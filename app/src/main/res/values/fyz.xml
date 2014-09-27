@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fyz">
+        <!--0--><item>Density</item>
+        <!--1--><item>uniform motion</item>
+        <!--2--><item>Uneven movement</item>
+        <!--3--><item>Speed</item>
+        <!--4--><item>Tracker</item>
+        <!--5--><item>period</item>
+        <!--6--><item>rate</item>
+        <!--7--><item>angular velocity</item>
+        <!--8--><item>Runway rate</item>
+        <!--9--><item>Centripetal acceleration</item>
+        <!--10--><item>Momentum</item>
+        <!--11--><item>second law of motion</item>
+        <!--12--><item>Moment</item>
+        <!--13--><item>Mechanical work</item>
+        <!--14--><item>kinetic energy</item>
+        <!--15--><item>potential energy</item>
+        <!--16--><item>Power</item>
+        <!--17--><item>Efficiency</item>
+        <!--18--><item>kinetic energy of a rotating body</item>
+        <!--19--><item>Gravity</item>
+        <!--20--><item>strength of the gravitational field</item>
+        <!--21--><item>gravitational potential</item>
+        <!--22--><item>Pressure</item>
+        <!--23--><item>Hydrostatic pressure</item>
+        <!--24--><item>buoyancy</item>
+        <!--25--><item>continuity equation</item>
+        <!--26--><item>Bernoulli equation</item>
+        <!--27--><item>Newton\'s formula for the size of the resistance forces</item>
+        <!--28--><item>heat capacity</item>
+        <!--29--><item>specific heat capacity</item>
+        <!--30--><item>first law of thermodynamics</item>
+        <!--31--><item>Wed. quadratic rate</item>
+        <!--32--><item>Wed. kinetic energy of molecules</item>
+        <!--33--><item>pressure of an ideal gas</item>
+        <!--34--><item>ideal gas equation of state</item>
+        <!--35--><item>thermal expansion</item>
+        <!--36--><item>thermal volume expansion</item>
+        <!--37--><item>surface tension</item>
+        <!--38--><item>specific latent heat</item>
+        <!--39--><item>Absolute humidity</item>
+        <!--40--><item>Relative humidity</item>
+        <!--41--><item>Instant displacement</item>
+        <!--42--><item>Speed</item>
+        <!--43--><item>Acceleration</item>
+        <!--44--><item>angular frequency</item>
+        <!--45--><item>force causing movement freq</item>
+        <!--46--><item>angular frequency</item>
+        <!--47--><item>equation by successive waves</item>
+        <!--48--><item>Coulomb</item>
+        <!--49--><item>intensity el. field</item>
+        <!--50--><item>surface charge density</item>
+        <!--51--><item>electric potential</item>
+        <!--52--><item>Voltage</item>
+        <!--53--><item>work in a uniform electric field</item>
+        <!--54--><item>Cable capacity</item>
+        <!--55--><item>capacity plate capacitor</item>
+        <!--56--><item>energy stored in a capacitor</item>
+        <!--57--><item>Power</item>
+        <!--58--><item>electrical conductivity</item>
+        <!--59--><item>electrical resistivity</item>
+        <!--60--><item>dependency rates. el. resistance to temperature</item>
+        <!--61--><item>power constant. current</item>
+        <!--62--><item>Faraday\'s law of electrolysis</item>
+        <!--63--><item>Magn. Power</item>
+        <!--64--><item>force between two parallelism. conductor with current</item>
+        <!--65--><item>magnetic flux</item>
+        <!--66--><item>Faraday\'s law of electromagnetic induction</item>
+        <!--67--><item>Inductance</item>
+        <!--68--><item>magnetic energy. field coil</item>
+        <!--69--><item>AC</item>
+        <!--70--><item>Voltage</item>
+        <!--71--><item>Thomson relationship</item>
+        <!--72--><item>Transformation ratio</item>
+        <!--73--><item>absolute index of refraction</item>
+        <!--74--><item>law of refraction</item>
+        <!--75--><item>the equations</item>
+        <!--76--><item>Focal lenses</item>
+        <!--77--><item>optical power</item>
+        <!--78--><item>enlargement</item>
+        <!--79--><item>Brightness</item>
+        <!--80--><item>Lighting</item>
+        <!--81--><item>Wien\'s displacement law</item>
+        <!--82--><item>Stefan-Boltzmann law</item>
+        <!--83--><item>photon energy</item>
+        <!--84--><item>momentum of the photon</item>
+        <!--85--><item>wavelength of a moving particle</item>
+        <!--86--><item>kinetic energy of the electron</item>
+        <!--87--><item>Law of radioactive decay</item>
+    </string-array>
+    <string-array name="fyzv">
+        <!--0--><item>﻿ρ=m/V</item>
+        <!--1--><item>v=s/t</item>
+        <!--2--><item>vp=Δs/Δt</item>
+        <!--3--><item>v=at</item>
+        <!--4--><item>s=½at2</item>
+        <!--5--><item>T=2πr/v=2π/ω</item>
+        <!--6--><item>f=1/T</item>
+        <!--7--><item>ω=Δφ/Δt=2π/T=2πf</item>
+        <!--8--><item>v=rω</item>
+        <!--9--><item>a=vω</item>
+        <!--10--><item>p=mv (also applies to vector)</item>
+        <!--11--><item>F=Δp/Δt=ma (also applies to vector)</item>
+        <!--12--><item>M=Fr</item>
+        <!--13--><item>W=Fscosα=Pt</item>
+        <!--14--><item>Ek=½mv2</item>
+        <!--15--><item>Ep=mgh</item>
+        <!--16--><item>P=W/t</item>
+        <!--17--><item>η=P/P0</item>
+        <!--18--><item>Ek=½Jω2</item>
+        <!--19--><item>Fg=κm1m2/r2 (κ - kappa - gravitational constant)</item>
+        <!--20--><item>K=Fg/m=κM/r2</item>
+        <!--21--><item>φg=Ep/m</item>
+        <!--22--><item>p=F/S</item>
+        <!--23--><item>p=hρg</item>
+        <!--24--><item>Fvz=Vρg</item>
+        <!--25--><item>SVρ=konst.</item>
+        <!--26--><item>p+½ρv2</item>
+        <!--27--><item>F=½CSρv2</item>
+        <!--28--><item>C=Q/ΔT</item>
+        <!--29--><item>c=Q/(mΔT)</item>
+        <!--30--><item>ΔU=W+Q</item>
+        <!--31--><item>vk2=3kT/m0</item>
+        <!--32--><item>E0=½m0vk2=(3/2)kT</item>
+        <!--33--><item>p=Nm0vk2/V</item>
+        <!--34--><item>pV=Nkt=nRmT</item>
+        <!--35--><item>l=l0(1+αΔt)</item>
+        <!--36--><item>V=V0(1+βΔt)</item>
+        <!--37--><item>σ=F/l</item>
+        <!--38--><item>l=L/m</item>
+        <!--39--><item>Φ=m/V</item>
+        <!--40--><item>φ=Φ/Φm</item>
+        <!--41--><item>y=ymsinωt</item>
+        <!--42--><item>v=ωymcosωt</item>
+        <!--43--><item>a=-ω2ymsinωt=-ω2y</item>
+        <!--44--><item>ω=2π/T=2πf</item>
+        <!--45--><item>F=-ky</item>
+        <!--46--><item>ω2=k/m</item>
+        <!--47--><item>y=ymsin2π(t/T-x/λ)</item>
+        <!--48--><item>Fe=|Q1Q2|/(4πεr2)</item>
+        <!--49--><item>E=Fe/q=Q/(4πεr2)</item>
+        <!--50--><item>σ=Q/S</item>
+        <!--51--><item>φe=Ep/Q=W/Q</item>
+        <!--52--><item>φe2|=Ed</item>
+        <!--53--><item>W=QU</item>
+        <!--54--><item>C=Q/U</item>
+        <!--55--><item>C=Sε0εr/d</item>
+        <!--56--><item>W=½CU</item>
+        <!--57--><item>I=ΔQ/Δt; I=U/R (for part of the circuit);I=Ue/(Ri+R) (for closed circuit)</item>
+        <!--58--><item>G=1/R</item>
+        <!--59--><item>ρ=RS/l</item>
+        <!--60--><item>ρ=ρ0(1+αΔt)</item>
+        <!--61--><item>m=AQ=MQ/(Fν)</item>
+        <!--62--><item>P=UI</item>
+        <!--63--><item>Fm=BIlsinα=QvBsinα</item>
+        <!--64--><item>F=μI1I2l/(2πd)</item>
+        <!--65--><item>Φ=BScosα</item>
+        <!--66--><item>Ui=-ΔΦ/Δt</item>
+        <!--67--><item>L=Φ/I</item>
+        <!--68--><item>E=½LI2</item>
+        <!--69--><item>u=Umsinωt</item>
+        <!--70--><item>i=Imsin(ωt-φ)</item>
+        <!--71--><item>ω02=1/(LC)</item>
+        <!--72--><item>k=N2/N1=U2/U1=I1/I2 (P=konst.)</item>
+        <!--73--><item>n0=c/v</item>
+        <!--74--><item>sinα/sinβ=v1/v2=n2/n1</item>
+        <!--75--><item>1/a+1/a´=1/f</item>
+        <!--76--><item>1/f=(n2/n1&#8211;)(1/r1+1/r2)</item>
+        <!--77--><item>Φ=1/f</item>
+        <!--78--><item>Z=y´/y=-a´/a=-(a´-f)/f=-f/(a-f)</item>
+        <!--79--><item>I=ΔΦ/ΔΩ</item>
+        <!--80--><item>E=ΔΦ/ΔS</item>
+        <!--81--><item>λmT=b</item>
+        <!--82--><item>Me=σT4</item>
+        <!--83--><item>E=hf</item>
+        <!--84--><item>p=hf/c</item>
+        <!--85--><item>λ=h/(mv)</item>
+        <!--86--><item>En=n2h2/(8mL2)</item>
+        <!--87--><item>N(t)=N0e-λt; λ=ln2/T</item>
+    </string-array>
+</resources>
